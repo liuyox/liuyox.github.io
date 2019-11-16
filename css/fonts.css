@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @font-face {
   font-family: 'BebasNeue';
   src: url("/fonts/BebasNeue.otf"); }
@@ -7,28 +8,27 @@
   src: url("/fonts/MaturaMTScriptCapitals.ttf"); }
 
 @font-face {
+  font-family: 'Helvetica';
+  src: url("/fonts/Helvetica.ttf"); }
+
+/* 阿里巴巴iconfont配置 */
+@font-face {
   font-family: 'iconfont';
-  /* project id 861369 */
-  src: url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.eot");
-  src: url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.eot?#iefix") format("embedded-opentype"), url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.woff") format("woff"), url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.ttf") format("truetype"), url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.svg#iconfont") format("svg"); }
+  /* project id 1513276 */
+  src: url("//at.alicdn.com/t/font_1513276_te59jrmlufg.eot");
+  src: url("//at.alicdn.com/t/font_1513276_te59jrmlufg.eot?#iefix") format("embedded-opentype"), url("//at.alicdn.com/t/font_1513276_te59jrmlufg.woff2") format("woff2"), url("//at.alicdn.com/t/font_1513276_te59jrmlufg.woff") format("woff"), url("//at.alicdn.com/t/font_1513276_te59jrmlufg.ttf") format("truetype"), url("//at.alicdn.com/t/font_1513276_te59jrmlufg.svg#iconfont") format("svg"); }
 
 .iconfont {
   font-family: "iconfont" !important;
-  font-size: 16px;
+  font-size: 26px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -webkit-text-stroke-width: 0.2px;
   -moz-osx-font-smoothing: grayscale; }
-  .iconfont.icon-behance::before {
-    content: '\e919'; }
-  .iconfont.icon-lofter::before {
-    content: '\e63c'; }
-  .iconfont.icon-instagram::before {
-    content: '\e626'; }
-  .iconfont.icon-dribbble::before {
-    content: '\e6c3'; }
   .iconfont.icon-github::before {
-    content: '\e799'; }
+    content: '\e7ad'; }
+  .iconfont.icon-email::before {
+    content: '\e684'; }
   .iconfont.icon-arrow-left::before {
     content: '\e91a'; }
   .iconfont.icon-arrow-right::before {
