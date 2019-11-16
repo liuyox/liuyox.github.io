@@ -35,10 +35,11 @@ body {
 
 /* 阿里巴巴iconfont配置 */
 @font-face {
-  font-family: 'iconfont';
-  /* project id 1513276 */
-  src: url("//at.alicdn.com/t/font_1513276_te59jrmlufg.eot");
-  src: url("//at.alicdn.com/t/font_1513276_te59jrmlufg.eot?#iefix") format("embedded-opentype"), url("//at.alicdn.com/t/font_1513276_te59jrmlufg.woff2") format("woff2"), url("//at.alicdn.com/t/font_1513276_te59jrmlufg.woff") format("woff"), url("//at.alicdn.com/t/font_1513276_te59jrmlufg.ttf") format("truetype"), url("//at.alicdn.com/t/font_1513276_te59jrmlufg.svg#iconfont") format("svg"); }
+  font-family: "iconfont";
+  src: url("iconfont.eot?t=1573909277821");
+  /* IE9 */
+  src: url("iconfont.eot?t=1573909277821#iefix") format("embedded-opentype"), url("data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOwAAsAAAAAB7gAAANkAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDHIMDATYCJAMMCwgABCAFhG0HORvMBsgekiQlAgV72IMCAMhzBNVY2bO7h+j+FaB8z+VfEagQGJWKSoyPY4nCsjBsxA3qVMUuEKgjKCE7igwJKxqwU8B3CHw5zrW+u3bilez4ifN5Lqe3okTmtyyXMZfNqQsDjAMKaKxNB97zEsaGsZsIGuJpAk3zNtDs1zZ3Ax8FmBSIe5LAAZ+MQ2moDnWhWrGyiOegop6eMl8B8Iz/Pv6DzPAhqWRg5sGNGh0o/zX18xoru2XnlADK6Xww1pGxASjEZWXgGBulNrCansGjubiqCGmqqNsNV/i6KvzDIwmiClS2wYpiSy5KicUkfl9TXbXy4cZXUcMTvFM5490q0iAV+vr2vdDCuv2OA4uRlxbX09J9csRFIjsBd9H1ORpH74ETZ9SkqP133yr599UFJfuxev/+3oijyqljkUqPo+/KF9fKnnuLeX0XnJ/WOoH85eXXj4qyoKqfv99W+068WXwlv1x4jQQLO4LeKpA55awJ/uBazp5Wu8f3LkRp3fnWE/IkpCc0JlSb/S0hsyl228b+2qrOdfo4s98MkjJr17q0NbW/bLemmc6xZm7Yr/W/9ezAprU3ilCorN7adKJlzRK6GfLfr3WYa+4cm/vbV83KyHLmVb3n6bLTRPsqtq5cmZ/RlxXR5rkP9fpVM1IVw7zo3G+vcHOHT05uTid2714T9QKZL5297XV1UZejiKVdzs/piny+N2qvnAeuATMw/n3R5F0AyC8Y9ddd5vNKdstYcPFvH/8Cfv6JwOu7p+sShvJH1RTNbEYJUw3subiyBlPpWiV7zPM11GhqYiZHhpaGmyZ+JaFukiCpmUNWt0AWzgYqWjZRVbeFpnV161tGCFaUBtZMSwh9N5B0vUfW940snB+omPqFqn6waDqM8B1blkLyqyKYo1gHtdughCxmHrmpn6juxMImI0fSas7rxcQuRWFGano+W4fNmEwxx75ZyKSUhzyxmGCtdB42Gi3QSix6jGiqSKm1MC2Nr2IpFVlMwM8eAuNQmA6ktQ0kQSzMeNqe8it8vxMm2MSIQxqaepK9MMJO6h7KkCq9A1lnMHdqupV37DYTZKIoHsQjLEygWsmHGWHKArJWD9PDECqVOCBhVShNacV3NaQubzK93w5oAgfnSJGjqN2UqLhJm+WJTZxkBAA=") format("woff2"), url("iconfont.woff?t=1573909277821") format("woff"), url("iconfont.ttf?t=1573909277821") format("truetype"), url("iconfont.svg?t=1573909277821#iconfont") format("svg");
+  /* iOS 4.1- */ }
 
 .iconfont {
   font-family: "iconfont" !important;
